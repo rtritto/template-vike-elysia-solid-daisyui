@@ -1,5 +1,5 @@
 import vikeSolid from 'vike-solid/vite'
-import vike from 'vike/plugin'
+import { vikeNode } from 'vike-node/plugin'
 import type { UserConfig } from 'vite'
 import tailwindcss from 'tailwindcss'
 import autoprefixer from 'autoprefixer'
@@ -8,7 +8,10 @@ import { resolve } from 'node:path'
 export default {
   cacheDir: '.vite',
   plugins: [
-    vike(),
+    vikeNode({
+      entry: './src/server/index.ts',
+      standalone: true
+    }),
     vikeSolid()
   ],
   server: {

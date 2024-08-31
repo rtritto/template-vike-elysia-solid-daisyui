@@ -5,16 +5,19 @@
   "type": "module",
   "packageManager": "yarn@4.4.1",
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
-    "serve": "vite preview",
-    "lint": "eslint .",
+    "dev": "bun --bun vite",
+    "build": "bun --bun vite build",
+    "serve": "bun --bun vite preview",
+    "lint": "bun --bun eslint .",
     "od": "yarn outdated"
   },
   "dependencies": {
-    "solid-js": "^1.8.22"
+    "elysia": "^1.1.9",
+    "solid-js": "^1.8.22",
+    "vike-node": "^0.1.16"
   },
   "devDependencies": {
+    "@types/bun": "^1.1.8",
     "@types/eslint": "^9",
     "@types/node": "^22.5.1",
     "@typescript-eslint/eslint-plugin": "^8.3.0",
