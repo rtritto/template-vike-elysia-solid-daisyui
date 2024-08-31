@@ -4721,9 +4721,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"template-vike-solid-daisyui@workspace:.":
+"template-vike-elysia-solid-daisyui@workspace:.":
   version: 0.0.0-use.local
-  resolution: "template-vike-solid-daisyui@workspace:."
+  resolution: "template-vike-elysia-solid-daisyui@workspace:."
   dependencies:
     "@types/eslint": "npm:^9"
     "@types/node": "npm:^22.5.1"
