@@ -1,4 +1,5 @@
 import vikeSolid from 'vike-solid/vite'
+import { plugin as vike } from 'vike/plugin'
 import { vikeNode } from 'vike-node/plugin'
 import type { UserConfig } from 'vite'
 import tailwindcss from 'tailwindcss'
@@ -8,8 +9,9 @@ import { resolve } from 'node:path'
 export default {
   cacheDir: '.vite',
   plugins: [
-    vikeNode('./src/server/index.ts'),
-    vikeSolid()
+    vike(),
+    vikeSolid(),
+    vikeNode('src/server/index.ts')
   ],
   server: {
     port: 3000
