@@ -8,10 +8,7 @@ import { resolve } from 'node:path'
 export default {
   cacheDir: '.vite',
   plugins: [
-    vikeNode({
-      entry: './src/server/index.ts',
-      standalone: true
-    }),
+    vikeNode('./src/server/index.ts'),
     vikeSolid()
   ],
   server: {
