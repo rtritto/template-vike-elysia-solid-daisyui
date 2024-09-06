@@ -12,6 +12,7 @@
     "od": "yarn outdated"
   },
   "dependencies": {
+    "@elysiajs/cors": "^1.1.1",
     "elysia": "^1.1.11",
     "solid-js": "^1.8.22",
     "vike-node": "^0.1.16"
