@@ -6,6 +6,7 @@
   "packageManager": "yarn@4.5.0",
   "scripts": {
     "dev": "bun --bun vite",
+    "dev:debug": "DEBUG=vike:error bun --bun vite",
     "build": "bun --bun vite build",
     "serve": "bun --bun vite preview",
     "lint": "bun --bun eslint .",
