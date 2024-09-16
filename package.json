@@ -13,9 +13,11 @@
   },
   "dependencies": {
     "@elysiajs/cors": "^1.1.1",
+    "@tanstack/solid-query": "^5.56.2",
     "elysia": "^1.1.12",
     "solid-js": "^1.8.22",
-    "vike-node": "^0.1.16"
+    "vike-node": "^0.1.16",
+    "vike-solid-query": "^0.0.1"
   },
   "devDependencies": {
     "@types/bun": "^1.1.9",
