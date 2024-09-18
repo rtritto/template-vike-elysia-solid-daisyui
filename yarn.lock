@@ -2259,9 +2259,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"elysia@npm:^1.1.12":
-  version: 1.1.12
-  resolution: "elysia@npm:1.1.12"
+"elysia@npm:^1.1.13":
+  version: 1.1.13
+  resolution: "elysia@npm:1.1.13"
   dependencies:
     "@sinclair/typebox": "npm:0.32.34"
     cookie: "npm:^0.6.0"
@@ -2276,7 +2276,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/022e25567f96ff4e25cff17fbda41483a13e81386c7106bdf713644d867825bc6bfffcd95a02a88084fc7965878df96b547699b26215bf5a908ed8e0c491e796
+  checksum: 10c0/3e810ef2db9d602dfd7d16d015fcfc362000072b3cb1bfab4098ec5a352f14bcf8e762ddc9e3753f16bec3298497f48aeba5603500d32824b9479cf9c0586695
   languageName: node
   linkType: hard
 
@@ -5555,7 +5555,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:^8.6.0"
     autoprefixer: "npm:^10.4.20"
     daisyui: "npm:^4.12.10"
-    elysia: "npm:^1.1.12"
+    elysia: "npm:^1.1.13"
     eslint: "npm:^8.57.0"
     eslint-import-resolver-node: "npm:^0.3.9"
     eslint-import-resolver-typescript: "npm:^3.6.3"
