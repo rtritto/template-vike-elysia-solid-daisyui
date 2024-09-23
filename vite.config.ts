@@ -1,16 +1,13 @@
-import vikeSolid from 'vike-solid/vite'
+// import vikeSolid from 'vike-solid/vite'
 import { plugin as vike } from 'vike/plugin'
 import { vikeNode } from 'vike-node/plugin'
 import type { UserConfig } from 'vite'
-import tailwindcss from 'tailwindcss'
-import autoprefixer from 'autoprefixer'
-import { resolve } from 'node:path'
 
 export default {
   cacheDir: '.vite',
   plugins: [
     vike(),
-    vikeSolid(),
+    // vikeSolid(),
     vikeNode('src/server/index.ts')
   ],
   server: {
@@ -22,18 +19,5 @@ export default {
   build: {
     target: 'esnext',
     outDir: '.vite/dist'
-  },
-  css: {
-    postcss: {
-      plugins: [
-        tailwindcss,
-        autoprefixer
-      ]
-    }
-  },
-  resolve: {
-    alias: {
-      '@': resolve(import.meta.dirname, 'src')
-    }
   }
 } satisfies UserConfig

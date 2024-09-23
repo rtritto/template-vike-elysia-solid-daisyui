@@ -1,7 +1,6 @@
 import type { JSX } from 'solid-js'
 
-import '@/layouts/styles.css'
-import { Link } from '@/components/Link'
+import { Link } from '../components/Link'
 
 function Sidebar(props: { children: JSX.Element }) {
   return (
