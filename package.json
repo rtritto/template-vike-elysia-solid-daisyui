@@ -15,8 +15,7 @@
   "dependencies": {
     "@elysiajs/cors": "^1.1.1",
     "elysia": "^1.1.13",
-    "solid-js": "^1.8.22",
-    "vike-node": "^0.1.16"
+    "solid-js": "^1.8.22"
   },
   "devDependencies": {
     "@types/bun": "^1.1.9",
@@ -25,6 +24,7 @@
     "postcss": "^8.4.47",
     "typescript": "5.5.4",
     "vike": "^0.4.196",
+    "vike-node": "^0.1.16",
     "vike-solid": "^0.7.5",
     "vite": "^5.4.7"
   },
