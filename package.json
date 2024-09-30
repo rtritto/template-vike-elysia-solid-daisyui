@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@elysiajs/cors": "^1.1.1",
-    "elysia": "^1.1.16",
+    "elysia": "^1.1.17",
     "solid-js": "^1.9.1",
     "vike-node": "^0.1.16"
   },
@@ -21,8 +21,8 @@
     "@types/bun": "^1.1.10",
     "@types/eslint": "^8.56.12",
     "@types/node": "^22.7.4",
-    "@typescript-eslint/eslint-plugin": "^8.7.0",
-    "@typescript-eslint/parser": "^8.7.0",
+    "@typescript-eslint/eslint-plugin": "^8.8.0",
+    "@typescript-eslint/parser": "^8.8.0",
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.10",
     "eslint": "^8.57.1",
@@ -36,7 +36,7 @@
     "tailwindcss": "^3.4.13",
     "typescript": "5.5.4",
     "vike": "^0.4.197",
-    "vike-solid": "^0.7.5",
+    "vike-solid": "^0.7.6",
     "vite": "^5.4.8"
   },
   "engines": {
