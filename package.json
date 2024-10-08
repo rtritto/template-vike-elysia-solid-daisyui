@@ -14,12 +14,12 @@
   "dependencies": {
     "@elysiajs/cors": "^1.1.1",
     "elysia": "^1.1.19",
-    "solid-js": "^1.9.1",
+    "solid-js": "^1.9.2",
     "vike-node": "^0.1.16"
   },
   "devDependencies": {
     "@types/bun": "^1.1.10",
-    "@types/node": "^22.7.4",
+    "@types/node": "^22.7.5",
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.12",
     "eslint": "^9.12.0",
