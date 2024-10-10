@@ -2086,9 +2086,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"elysia@npm:^1.1.19":
-  version: 1.1.19
-  resolution: "elysia@npm:1.1.19"
+"elysia@npm:^1.1.20":
+  version: 1.1.20
+  resolution: "elysia@npm:1.1.20"
   dependencies:
     "@sinclair/typebox": "npm:0.32.34"
     cookie: "npm:^0.6.0"
@@ -2103,7 +2103,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 10c0/a9638048f29fdb4c03dba571749426621b8dd01531be37d16117c730ba1eb1682772ec40b724af3a0f56f84e0664c87e84470679eef01e9cd2245e9301b1b7e3
+  checksum: 10c0/8ec8ea4067a718d614cf483dc97f76b0c4b72076f52a81c303ff3bd06fd6a19fab37a103998420acf31db456f6734b61b71879e305abd1722de4a30a580bab86
   languageName: node
   linkType: hard
 
@@ -4753,7 +4753,7 @@ __metadata:
     "@types/node": "npm:^22.7.5"
     autoprefixer: "npm:^10.4.20"
     daisyui: "npm:^4.12.13"
-    elysia: "npm:^1.1.19"
+    elysia: "npm:^1.1.20"
     eslint: "npm:^9.12.0"
     eslint-plugin-solid: "npm:^0.14.3"
     eslint-plugin-tailwindcss: "npm:^3.17.5"
