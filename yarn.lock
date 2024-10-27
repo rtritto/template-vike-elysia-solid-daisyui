@@ -4821,9 +4821,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"template-vike-elysia-solid-daisyui@workspace:.":
+"template-vike-solid-daisyui-elysia@workspace:.":
   version: 0.0.0-use.local
-  resolution: "template-vike-elysia-solid-daisyui@workspace:."
+  resolution: "template-vike-solid-daisyui-elysia@workspace:."
   dependencies:
     "@elysiajs/cors": "npm:^1.1.1"
     "@types/bun": "npm:^1.1.11"

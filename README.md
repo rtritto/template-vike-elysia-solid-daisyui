@@ -1,4 +1,4 @@
-# template-vike-elysia-solid-daisyui
+# template-vike-solid-daisyui-elysia
 
 ### 📚 Template stack
 - **Vike**
@@ -16,7 +16,7 @@
 
 ### 🗐 Clone
 ```sh
-git clone https://github.com/rtritto/template-vike-elysia-solid-daisyui.git
+git clone https://github.com/rtritto/template-vike-solid-daisyui-elysia.git
 ```
 
 ### ⚙️ Install
