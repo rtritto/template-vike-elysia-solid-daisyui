@@ -14,7 +14,7 @@
 ![Solid](https://avatars.githubusercontent.com/u/79226042?s=48)
 <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="DaisyUI" width="48" />
 
-### 🗐 Clone
+### ⬇️ Clone
 ```sh
 git clone https://github.com/rtritto/template-vike-solid-daisyui-elysia.git
 ```
