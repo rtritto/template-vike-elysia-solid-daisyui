@@ -4851,7 +4851,7 @@ __metadata:
     tailwindcss: "npm:^3.4.15"
     typescript: "npm:^5.6.3"
     typescript-eslint: "npm:^8.15.0"
-    vike: "npm:^0.4.201"
+    vike: "npm:^0.4.203"
     vike-node: "npm:^0.1.16"
     vike-solid: "npm:^0.7.6"
     vite: "npm:^5.4.11"
@@ -5118,9 +5118,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vike@npm:^0.4.201":
-  version: 0.4.201
-  resolution: "vike@npm:0.4.201"
+"vike@npm:^0.4.203":
+  version: 0.4.203
+  resolution: "vike@npm:0.4.203"
   dependencies:
     "@brillout/import": "npm:^0.2.3"
     "@brillout/json-serializer": "npm:^0.5.13"
@@ -5142,7 +5142,7 @@ __metadata:
       optional: true
   bin:
     vike: node/cli/bin-entry.js
-  checksum: 10c0/eec69e99e66c142c450851fd4fe93f7c35b51e0306d397f6887d67319d3b9c93b42518ce0a11e622a02469706012671c07f5d7d7d5c378f01e4c2c913bc6773a
+  checksum: 10c0/cd3f1b08000493c2e3fb8eaa0ac0256edf6a3bb06b9fe9e4656e6dc417c07d482af78be04ed047676f667bc0bcde3fb33e679b7f0fc17b2ab13491868e273b1f
   languageName: node
   linkType: hard
 
