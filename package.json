@@ -15,22 +15,22 @@
     "@elysiajs/cors": "^1.1.1",
     "elysia": "^1.1.25",
     "solid-js": "^1.9.3",
-    "vike-node": "^0.1.16"
+    "vike-node": "^0.2.1"
   },
   "devDependencies": {
-    "@types/bun": "^1.1.13",
-    "@types/node": "^22.9.4",
+    "@types/bun": "^1.1.14",
+    "@types/node": "^22.10.1",
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.14",
-    "eslint": "^9.15.0",
+    "eslint": "^9.16.0",
     "eslint-plugin-solid": "^0.14.4",
     "eslint-plugin-tailwindcss": "^3.17.5",
     "eslint-plugin-unicorn": "^56.0.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15",
     "typescript": "5.7.2",
-    "typescript-eslint": "^8.16.0",
-    "vike": "^0.4.204",
+    "typescript-eslint": "^8.17.0",
+    "vike": "^0.4.206",
     "vike-solid": "^0.7.6",
     "vite": "^5.4.11"
   },
